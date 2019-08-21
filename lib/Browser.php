@@ -97,7 +97,7 @@ class Browser
     const BROWSER_MSN = 'MSN Browser'; // http://explorer.msn.com/
     const BROWSER_MSNBOT = 'MSN Bot'; // http://search.msn.com/msnbot.htm
     const BROWSER_BINGBOT = 'Bing Bot'; // http://en.wikipedia.org/wiki/Bingbot
-    const BROWSER_VIVALDI = 'Vivalidi'; // https://vivaldi.com/
+    const BROWSER_VIVALDI = 'Vivaldi'; // https://vivaldi.com/
     const BROWSER_YANDEX = 'Yandex'; // https://browser.yandex.ua/
 
     const BROWSER_NETSCAPE_NAVIGATOR = 'Netscape Navigator'; // http://browser.netscape.com/ (DEPRECATED)
